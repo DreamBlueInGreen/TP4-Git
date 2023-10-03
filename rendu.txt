@@ -75,3 +75,21 @@ Author: Louann <louanncollot50@gmail.com>
 Date:   Tue Oct 3 13:59:18 2023 +0200
 
     premierecommit
+
+
+PS K:\1HTML\Hamadouche\TP3 Git> git status
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   Exo/index.html
+        modified:   Rendu
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        template/
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+-------<comme les fichiers ont été déplacé ils ne sont plus sauvegardés>
+
